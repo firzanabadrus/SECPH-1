@@ -16,7 +16,9 @@
 
   [Video](https://youtu.be/14FR-S98dzE?si=VDcp-4SRphfMaOYg)
 
-  [Presentation](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20Design-Thinking%20Computer%20Hardware.pdf)
+  [Presentation]([https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20Design-Thinking%20Computer%20Hardware.pdf](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Presentation%20Design-Thinking.pdf)https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Presentation%20Design-Thinking.pdf)
+
+  ### PC Assembly
 
 * DISCRETE STRUCTURE
 * PROGRAMMING TECHNIQUE I
