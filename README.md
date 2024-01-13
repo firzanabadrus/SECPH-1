@@ -12,7 +12,7 @@
   [Assignment 4](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20on%20Industries%20Talk%202a_%20System%20Development%20%40%20Credence%20(TM%20Subsidiary).pdf)
 
   ### Design Thinking Project
-  [Report]()
+  [Report](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20Design-Thinking%20Computer%20Hardware.pdf)
 
   [Video](https://youtu.be/14FR-S98dzE?si=VDcp-4SRphfMaOYg)
 
