@@ -8,7 +8,7 @@ Content : _
 - Databases and Data Analytics
 - Network and Communication
 - Privacy, Security and Ethics
-- Cloud Computing
+- Cloud Computing  - [Presentation](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Cloud%20Computing%20Presentation.pdf)
 
 
 ## **_Industry Talk_**
