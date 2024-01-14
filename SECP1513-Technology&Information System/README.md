@@ -1,6 +1,17 @@
 # TECHNOLOGY AND INFORMATION SYSTEM
 
-### **_Industry Talk_**
+Content : _
+- Emerging Technology in ICT
+- Hardware
+- Software
+- Information System and System Analysis&Design
+- Databases and Data Analytics
+- Network and Communication
+- Privacy, Security and Ethics
+- Cloud Computing
+
+
+## **_Industry Talk_**
 
 1. Career Development by Habib : GetMe.Hired  (23/10/2023)
    
@@ -24,8 +35,7 @@
     ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/0f2ba5a2-a739-4fe9-ab2b-a357bd498edd)
 
 
-
-###** _Industry Visit_**
+## ** _Industry Visit_**
 1. Petronas and Huawei  (17/11/2023)
    
    ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/474369c9-5886-4f45-aff5-2187934ca1b1)
@@ -37,34 +47,4 @@
    
  ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/7d8f87ec-e211-4eb7-9e82-dacd7772e832)
 
-
-* ### Assignment
-  Assignment 1 : [Poster](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Career%20Development%20Poster.pdf)
-
-  Assignment 2 : [Video](https://youtu.be/EDu7X31AlpE?si=Y5dywFeZyrIm0iLe)
-
-  Assignment 3 : [Newsletter](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Newsletter%20on%20Industrial%20Visit%20Petronas-Huawei.pdf)
-
-  Assignment 4 : [Report](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20on%20Industries%20Talk%202a_%20System%20Development%20%40%20Credence%20(TM%20Subsidiary).pdf)
-
-* ### Design Thinking Project
-
-COMPUTER HARDWARE : WATCH.COM 🔥🔥
-
-https://github.com/firzanabadrus/SECPH-1/assets/148327377/270b06d4-cc6f-4381-9422-a74e8fd1b278
-
-
-  - [x] [Report](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20Design-Thinking%20Computer%20Hardware.pdf)
-  
-  - [x] [Video](https://youtu.be/14FR-S98dzE?si=VDcp-4SRphfMaOYg)
-  
-  - [x] [Presentation](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Presentation%20Design-Thinking.pdf)
-
-* ### PC Assembly
-
-  (22/11/2023)
-
-  ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/6a427048-13f8-40c4-9ffb-634313cebc24)
-
-  
 
