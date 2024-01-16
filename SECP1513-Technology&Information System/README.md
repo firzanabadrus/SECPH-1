@@ -11,39 +11,42 @@ Content : _
 - Cloud Computing  - [Presentation](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Cloud%20Computing%20Presentation.pdf)
 
 
-## **_Industry Talk_**
+## **_Industrial Talk_**
 
-1. Career Development by Habib : GetMe.Hired  (23/10/2023)
+1. Career Development by Habib : GetMe.Hired  **(23/10/2023)**
    
    ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/78483830-f028-441b-aa70-5f1e266b60e8)
 
-2. Career Development by PPG  (28/10/2023)
+2. Career Development by PPG  **(28/10/2023)**
    
   ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/5308bc8e-8703-4039-a51d-46c75c17f15d)
 
    
-3. Overview of ICT Joba : Clarify Techwork SDN BHD  (14/11/2023)
+3. Overview of ICT Jobs : Clarify Techwork SDN BHD  **(14/11/2023)**
    
   ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/a30d36cb-fcbc-4e39-85ce-4d0eb833111c)
 
-4. UTMDigital - Our Digital University Driver  (5/12/2023)
+4. UTMDigital - Our Digital University Driver  **(5/12/2023)**
    
   ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/5fd652dd-d039-451f-abbf-0ae159c21e90)
 
-5. Career Talk : System Development at Credence [subsidiary TM]  (28/12/2023)
+5. Career Talk : System Development at Credence [subsidiary TM]  **(28/12/2023)**
     
     ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/0f2ba5a2-a739-4fe9-ab2b-a357bd498edd)
 
 
-## ** _Industry Visit_**
-1. Petronas and Huawei  (17/11/2023)
+.
+
+
+## **_Industrial Visit_**
+1. Petronas and Huawei  **(17/11/2023)**
    
    ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/474369c9-5886-4f45-aff5-2187934ca1b1)
    
    ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/92a6c20c-8229-49f6-9dfd-8016ac28039c)
 
 
-3. UTM Digital  (13/12/2023)
+2. UTM Digital  **(13/12/2023)**
    
  ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/7d8f87ec-e211-4eb7-9e82-dacd7772e832)
 
