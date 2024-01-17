@@ -10,6 +10,7 @@ Content : _
 - Privacy, Security and Ethics
 - Cloud Computing  - [Presentation](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Cloud%20Computing%20Presentation.pdf)
 
+<br>
 
 ## **_Industrial Talk_**
 
@@ -17,25 +18,32 @@ Content : _
    
    ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/78483830-f028-441b-aa70-5f1e266b60e8)
 
+<br>
+
 2. Career Development by PPG  **(28/10/2023)**
    
   ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/5308bc8e-8703-4039-a51d-46c75c17f15d)
 
+<br>
    
 3. Overview of ICT Jobs : Clarify Techwork SDN BHD  **(14/11/2023)**
    
   ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/a30d36cb-fcbc-4e39-85ce-4d0eb833111c)
 
+<br>
+
 4. UTMDigital - Our Digital University Driver  **(5/12/2023)**
    
   ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/5fd652dd-d039-451f-abbf-0ae159c21e90)
+
+<br>
 
 5. Career Talk : System Development at Credence [subsidiary TM]  **(28/12/2023)**
     
     ![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/0f2ba5a2-a739-4fe9-ab2b-a357bd498edd)
 
 
-.
+<br>
 
 
 ## **_Industrial Visit_**
