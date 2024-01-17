@@ -1,22 +1,23 @@
 ## DESIGN THINKING PROJECT
 Design thinking projects are a way of solving problems by focusing on understanding people’s needs, being creative and working together. It has five steps of design thinking, which start with empathising, defining, ideating, prototyping, and testing. This approach is used in different areas to create better solutions and experiences.
 
-.
-
+<br>
+<br>
 
 - **COMPUTER HARDWARE : WATCH.COM 🔥**
 
 https://github.com/firzanabadrus/SECPH-1/assets/148327377/252d5786-2648-46ba-be5f-cab27b8fe687
 
-
 Full video about our project is [here](https://youtu.be/14FR-S98dzE?si=VDcp-4SRphfMaOYg) .
+
 
   - [ ] [Report](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20Design-Thinking%20Computer%20Hardware.pdf)
   
   - [ ] [Presentation](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Presentation%20Design-Thinking.pdf)
 
 
-.
+<br>
+<br>
 
 
 >  I discovered how to enhance my soft skills, which include critical thinking, problem solving and communication. These are crucial for my advanced skill set, which will make me attractive to many employers while I am looking for work. In relation to my project, design thinking can help me become more adaptable and innovative in my problem-solving skills. I also gained knowledge on how to interact and converse with others particularly, specialists and professionals.
