@@ -2,25 +2,25 @@
 
 Contents : _ 
 
-- Chapter 1 : Set Theory & Logic
+- Chapter 1 : **Set Theory & Logic**
     - 1.1 SET AND SUBSET
     - 1.2 OPERATION ON SET
     - 1.3 FUNDAMENTAL AND ELEMENTS OF LOGIC
     - 1.4 QUANTIFIERS AND PROOF TECHNIQUE
       
-- Chapter 2 : Relations & Functions
+- Chapter 2 : **Relations & Functions**
     - 2.1 RELATIONS
     - 2.2 FUNCTIONS
     - 2.3 RECURRENCE AND RECURSIVE ALGORITHMS
       
-- Chapter 3 : Counting Method & Probability
+- Chapter 3 : **Counting Method & Probability**
     - 3.1 COUNTING METHOD
     - 3.2 PERMUTATION
     - 3.3 COMBINATION
     - 3.4 PIGEONHOLE PRINCIPLE
     - 3.5 PROBABILITY
       
-- Chapter 4 : Graph Theory
+- Chapter 4 : **Graph Theory**
     - 4.1 GRAPH DEFINITION AND NOTATIONS
     - 4.2 REPRESENTATION OF GRAPHS
     - 4.3 ISOMORPHISM OF GRAPHS
@@ -30,7 +30,7 @@ Contents : _
     - 4.7 DJIKSTRA' SHORTEST PATH ALGORITHM
     - 4.8 TREES
      
-- Chapter 5 : Finitie Automata
+- Chapter 5 : **Finitie Automata**
     - 5.1 DETERMINISTIC FINITE AUTOMATA (DFA)
     - 5.2 FINITE STATE MACHINES (FSM) 
 
