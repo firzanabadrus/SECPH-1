@@ -7,6 +7,7 @@ The computer system, consisting of various components like the PC case, cables, 
 <br>
 
 ![pc](https://github.com/firzanabadrus/SECPH-1/assets/148327377/c52e2c92-731e-4c36-bd6d-8c17ad411770)
+<img src=https://github.com/firzanabadrus/SECPH-1/assets/148327377/c52e2c92-731e-4c36-bd6d-8c17ad411770 alt="pc" width="250" height="550"
 
 **Reflection**
 > Disassembling and reassembling a PC was a valuable hands-on experience. It allowed me to apply theoretical knowledge to real-world situations and deepen my knowledge of computer hardware. Recognising the significance of each component, from the PC case to the CPU fan, emphasized the importance of precision and safety protocols. This practical exercise bridged the gap between theory and application, providing insight crucial for anyone interested in pursuing a career in computer science, particularly in hardware or system administration.
