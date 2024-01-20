@@ -11,15 +11,15 @@ https://github.com/firzanabadrus/SECPH-1/assets/148327377/252d5786-2648-46ba-be5
 Full video about our project is [here](https://youtu.be/14FR-S98dzE?si=VDcp-4SRphfMaOYg) .
 
 
-  - [ ] [Report](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20Design-Thinking%20Computer%20Hardware.pdf)
+  - [X] [Report](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Report%20Design-Thinking%20Computer%20Hardware.pdf)
   
-  - [ ] [Presentation](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Presentation%20Design-Thinking.pdf)
+  - [X] [Presentation](https://github.com/firzanabadrus/SECPH-1/blob/main/SECP1513-Technology%26Information%20System/Presentation%20Design-Thinking.pdf)
 
 
 <br>
 <br>
 
-
+### **REFLECTION**
 >  I discovered how to enhance my soft skills, which include critical thinking, problem solving and communication. These are crucial for my advanced skill set, which will make me attractive to many employers while I am looking for work. In relation to my project, design thinking can help me become more adaptable and innovative in my problem-solving skills. I also gained knowledge on how to interact and converse with others particularly, specialists and professionals.
 
 >  In order to increase my potential, I will involve myself and collaborate with individuals who are experienced. With the intention of becoming a better person in the future, I must learn from the mistakes I have made in the past. To learn how to collaborate with others more effectively and build a large network of contacts, I also need to work on developing my teamwork abilities, like volunteering or attending so many workshops about leadership.
