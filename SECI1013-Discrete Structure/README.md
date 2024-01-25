@@ -36,5 +36,7 @@ Contents : _
 
 - Chapter 5 : **Finitie Automata**
     - 5.1 DETERMINISTIC FINITE AUTOMATA (DFA)
-    - 5.2 FINITE STATE MACHINES (FSM) 
+    - 5.2 FINITE STATE MACHINES (FSM)
+ 
+> [ASSIGNMENT 4](https://github.com/firzanabadrus/SECPH-1/blob/main/SECI1013-Discrete%20Structure/Assignment%204.pdf)
 
