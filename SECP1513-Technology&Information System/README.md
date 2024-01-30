@@ -61,4 +61,5 @@ Content : _
  <img src=https://github.com/firzanabadrus/SECPH-1/assets/148327377/7d8f87ec-e211-4eb7-9e82-dacd7772e832 width="355" height="250"> 
 
 
+### Assignment >> [click here](https://github.com/firzanabadrus/SECPH-1/tree/main/SECP1513-Technology%26Information%20System/ASSIGNMENT)
 
