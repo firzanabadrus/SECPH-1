@@ -34,7 +34,7 @@ Contents : _
 
 > [ASSIGNMENT 3](https://github.com/firzanabadrus/SECPH-1/blob/main/SECI1013-Discrete%20Structure/Assignment%203.pdf)
 
-- Chapter 5 : **Finitie Automata**
+- Chapter 5 : **Finite Automata**
     - 5.1 DETERMINISTIC FINITE AUTOMATA (DFA)
     - 5.2 FINITE STATE MACHINES (FSM)
  
