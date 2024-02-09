@@ -9,4 +9,5 @@ In our project, we need to develop the recently developed project, which only ha
 
 <br>
 
-![digitallogic](https://github.com/firzanabadrus/SECPH-1/assets/148327377/c5ea9d85-a519-42e3-9da1-cdbffc645909)
+![image](https://github.com/firzanabadrus/SECPH-1/assets/148327377/af079f7c-0df1-4979-9fac-0cc70b294eba)
+
