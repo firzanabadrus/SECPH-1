@@ -10,3 +10,5 @@ Contents : _
 - Chapter 6 : INPUT AND OUTPUT
 - Chapter 7 : POINTERS
 - Chapter 8 : STRUCTURED DATA
+
+all of the assignments [here](https://github.com/firzanabadrus/SECPH-1/tree/main/SECJ1013-Programming%20Technique%20I/ASSIGNMENT)
