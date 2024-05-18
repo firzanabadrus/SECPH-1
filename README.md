@@ -6,7 +6,7 @@
 
 
 
-GDrive sem 1 [here](https://drive.google.com/drive/folders/1k1fiC8VRK-zqWj22HrDbIkrMTnF25IZE?usp=sharing)
+link [GDrive sem 1](https://drive.google.com/drive/folders/1k1fiC8VRK-zqWj22HrDbIkrMTnF25IZE?usp=sharing)
 
 <summary>List of subjects : _</summary> 
 
